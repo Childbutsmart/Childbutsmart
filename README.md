@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-💬 Introduction <br>
+💬 Introduction <br> <br>
 Hello! I'm Faysoil, with 23 years of existence, and I'm passionate about web development and mobile development. I'm constantly seekingto learn and take on new challenges. I have a solid foundation in HTML, CSS and Javascript, and I am currently undergoing training as a Web and Mobile Developer at Simplon Marseille.
 Open to both frond-end and back-end development, I am actively seeking internship opportunities that could potientally lead to an apprenticeship ;).
 
