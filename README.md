@@ -10,8 +10,15 @@ Open to both frond-end and back-end development, I am actively seeking internshi
 <li>Development Tools : VS Code, Git</li>
 <li>Design : Responsive Design, UX/UI basics</li>
 <li>Database : Basic understanding of SQL</li>
-<li>Methodologies : Agile, Scrum</li>
+<li>Methodologies : Agile, Scrum, Pair Programming</li>
 </ul>
+
+<h2>Projects</h2><br>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
 
 <h2>📧 Contact</h2> <br>
 <ul><li>Email : <a href="mailto:faysoil.chaambani@outlook.fr">faysoil.chaambani@outlook.fr</a></li>
