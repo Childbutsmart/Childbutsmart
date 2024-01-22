@@ -1,10 +1,10 @@
-### Hi everyone 👋
+<h1>Welcome to my Github profile 👋</h1>
 
-<h1>💬 Introduction</h1> <br>
+<h2>💬 About me</h2> <br>
 Hello! I'm Faysoil, with 23 years of existence, and I'm passionate about web development and mobile development. I'm constantly seekingto learn and take on new challenges. I have a solid foundation in HTML, CSS and Javascript, and I am currently undergoing training as a Web and Mobile Developer at Simplon Marseille.
 Open to both frond-end and back-end development, I am actively seeking internship opportunities that could potientally lead to an apprenticeship ;).
 
-<h1>👨‍💻 Skills</h1> <br>
+<h2>👨‍💻 Skills</h2> <br>
 <ul><li>Programming Languages : HTML, CSS, JavaScript</li>
 <li>Frameworks : React.js</li>
 <li>Development Tools : VS Code, Git</li>
@@ -13,7 +13,7 @@ Open to both frond-end and back-end development, I am actively seeking internshi
 <li>Methodologies : Agile, Scrum</li>
 </ul>
 
-<h1>📧 Contact</h1> <br>
+<h2>📧 Contact</h2> <br>
 <ul><li>Email : <a href="mailto:faysoil.chaambani@outlook.fr">faysoil.chaambani@outlook.fr</a></li>
 <li>LinkedIn : https://www.linkedin.com/in/faysoil-chaambani-2829b221b</li>
 <li>Portfolio : [Lien vers votre portfolio]</li>
