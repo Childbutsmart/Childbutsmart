@@ -13,8 +13,8 @@ Compétences
 - Méthodologies : Agile, Scrum
 
 Contact
-- Adresse e-mail : faysoil.chaambani@outlook.fr
-- LinkedIn : https://www.linkedin.com/in/faysoil-chaambani-2829b221b/
+📧 Adresse e-mail : faysoil.chaambani@outlook.fr
+🔎 LinkedIn : https://www.linkedin.com/in/faysoil-chaambani-2829b221b/
 - Portfolio : [Lien vers votre portfolio]
   
 N'hésitez pas à me contacter pour discuter de collaborations, de projets intéressants ou simplement pour échanger sur le développement web ! 🚀
