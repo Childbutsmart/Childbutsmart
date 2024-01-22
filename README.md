@@ -12,7 +12,7 @@ Compétences
 - Base de données : Notions de bases en SQL
 - Méthodologies : Agile, Scrum
 
-Contact
+Contact <br>
 📧 Adresse e-mail : faysoil.chaambani@outlook.fr <br>
 🔎 LinkedIn : https://www.linkedin.com/in/faysoil-chaambani-2829b221b/ <br>
 - Portfolio : [Lien vers votre portfolio]
