@@ -1,20 +1,19 @@
 ### Hi everyone 👋
 
-👨‍💻 Je suis Faysoil, 23 années d'existence et passionné par le déveoppement web et mobile. Je cherche constamment à apprendre et à relever de nouveaux défis. J'ai une solide base en HTML, CSS et JavaScript, et 
-je poursuis actuellement une formation de Développeur Web et Web Mobile chez Simplon.
-Ouvert au front ainsi qu'au back, je recherche des opportunités de stage qui mèneront pourquoi pas à l'alternance ? ;)
+👨‍💻 Hello! I'm Faysoil, with 23 years of existence, and I'm passionate about web development and mobile development. I'm constantly seekingto learn and take on new challenges. I have a solid foundation in HTML, CSS and Javascript, and I am currently undergoing training as a Web and Mobile Developer at Simplon Marseille.
+Open to both frond-end and back-end development, I am actively seeking internship opportunities that could potientally lead to an apprenticeship ;).
 
 Compétences
-- Langages de programmation : HTML, CSS, JavaScript
+- Programming Languages : HTML, CSS, JavaScript
 - Frameworks : React.js
-- Outils de développement : VS Code, Git
-- Conception : Responsive Design, UX/UI basics
-- Base de données : Notions de bases en SQL
-- Méthodologies : Agile, Scrum
+- Development Tools : VS Code, Git
+- Design : Responsive Design, UX/UI basics
+- Database : Notions de bases en SQL
+- Methodologies : Agile, Scrum
 
 Contact
-- Adresse e-mail : faysoil.chaambani@outlook.fr
+- Email : faysoil.chaambani@outlook.fr
 - LinkedIn : https://www.linkedin.com/in/faysoil-chaambani-2829b221b
 - Portfolio : [Lien vers votre portfolio]
   
-N'hésitez pas à me contacter pour discuter de collaborations, de projets intéressants ou simplement pour échanger sur le développement web ! 🚀
+Feel free to reach out to me to discuss collaborations, interesting projects, or just to chat about web development! 🚀
