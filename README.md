@@ -8,7 +8,7 @@ Compétences
 - Frameworks : React.js
 - Development Tools : VS Code, Git
 - Design : Responsive Design, UX/UI basics
-- Database : Notions de bases en SQL
+- Database : Basic understanding of SQL
 - Methodologies : Agile, Scrum
 
 Contact
